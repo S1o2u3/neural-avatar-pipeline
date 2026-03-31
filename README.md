@@ -138,13 +138,12 @@ neural-avatar-pipeline/
 
 ## 🗺️ Roadmap
 
-- [x] Project structure & documentation
+- [ ] Project structure & documentation
 - [ ] Core reconstruction pipeline
 - [ ] SDF rendering module
 - [ ] Modular ML platform
 - [ ] Pre-trained model weights
 - [ ] Web demo
-- [ ] arXiv paper release
 - [ ] pip installable package
 
 ---
