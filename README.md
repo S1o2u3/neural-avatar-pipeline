@@ -113,18 +113,6 @@ python scripts/benchmark.py --compare nerf_baseline
 
 ---
 
-## 📊 Training Results
-
-> Trained for 50 epochs on Tesla T4 GPU
-
-### RGB Renders · Depth Maps · Surface Normals
-![Training Results](docs/results/final_results_v3.png)
-
-### 📈 Training Loss Curve
-![Loss Curve](docs/results/training_loss.png)
-
----
-
 ## 📁 Project Structure
 ```
 neural-avatar-pipeline/
@@ -145,6 +133,18 @@ neural-avatar-pipeline/
 ├── 📄 setup.py
 └── 📄 README.md
 ```
+
+---
+
+## 📊 Training Results
+
+> Trained for 50 epochs on Tesla T4 GPU
+
+### RGB Renders · Depth Maps · Surface Normals
+![Training Results](docs/results/final_results_v3.png)
+
+### 📈 Training Loss Curve
+![Loss Curve](docs/results/training_loss.png)
 
 ---
 
