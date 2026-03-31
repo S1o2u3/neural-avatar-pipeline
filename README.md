@@ -160,7 +160,7 @@ Feel free to check the [issues page](https://github.com/soumyakakani/neural-avat
 
 **Soumya Kakani**
 
-[![GitHub](https://img.shields.io/badge/GitHub-soumyakakani-181717?style=for-the-badge&logo=github)](https://github.com/soumyakakani)
+[![GitHub](https://img.shields.io/badge/GitHub-soumyakakani-181717?style=for-the-badge&logo=github)]([https://github.com/soumyakakani](https://github.com/S1o2u3?tab=repositories))
 [![Email](https://img.shields.io/badge/Email-kakanisoumya1@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:kakanisoumya1@gmail.com)
 
 ---
