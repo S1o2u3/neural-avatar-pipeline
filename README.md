@@ -171,9 +171,8 @@ Feel free to check the [issues page](https://github.com/soumyakakani/neural-avat
 
 **Soumya Kakani**
 
-[![GitHub](https://github.com/S1o2u3)]((https://github.com/S1o2u3?tab=repositories))
-[![Email](https://img.shields.io/badge/Email-kakanisoumya1@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:kakanisoumya1@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-kakani-812b72215/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/S1o2u3)
 ---
 
 <div align="center">
